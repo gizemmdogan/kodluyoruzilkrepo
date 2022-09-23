@@ -29,4 +29,5 @@ code .
   ---
   [MIT](https://choosealicense.com/licenses/mit/)
 
-![Projemin resmi]()
+image
+![Projemin resmi](image.png)
